@@ -1,5 +1,5 @@
-module github.com/lxn/win
+module github.com/adrianriobo/win
 
-go 1.12
+go 1.14
 
-require golang.org/x/sys v0.0.0-20201018230417-eeed37f84f13
+require golang.org/x/sys v0.0.0-20210601080250-7ecdf8ef093b
